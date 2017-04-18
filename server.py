@@ -1,3 +1,8 @@
 #!/usr/bin/env python
 
-print "aaa"
+def output():
+  print "aaa"
+  return 0
+
+if __name__ == "__main__":
+    output()
